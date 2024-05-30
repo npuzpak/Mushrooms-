@@ -1,0 +1,244 @@
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@400;700&family=Neucha&family=Pangolin&display=swap');
+
+body {
+    background-color: #c9baa6;
+    cursor: url("https://cdn.custom-cursor.com/db/cursor/32/christmas_tree_and_t-rex_cursor.png"),
+        auto;
+}
+
+.savev{
+    display: flex;
+
+}
+.sas{
+    margin:200px 0px 0px 90px ;
+}
+
+.save {
+    padding: 10px 700px 10px 10px;
+    color: #000000;
+    text-decoration: none;
+    box-sizing: border-box;
+    margin: 10px 140px 10px 0px;
+    text-align: center;
+
+}
+
+.sav {
+    padding: 10px 10px 10px 30px;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.sa {
+    margin: 120px 0px 0px 0px;
+    text-transform: uppercase;
+    color: rgb(255, 202, 0);
+}
+
+.s {
+    border: 2px solid #4c30af;
+    align-items: center;
+    display: flex;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 40px 50px 0px 0px;
+    border-radius: 16px;
+    text-decoration: none;
+    font-size: 48px;
+}
+
+.container {
+    align-items: center;
+    display: flex;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 0px auto;
+
+}
+
+main {
+    width: 1224px;
+    height: 3224px;
+    background-color: #ae9de6;
+    display: flex;
+    margin: 0px auto;
+    padding: 32px;
+    flex-direction: column;
+
+
+}
+
+.cont {
+    background-color: #ae9de6;
+    margin: 300px 60px 0px 0px;
+
+
+}
+
+.con {
+    color: rgb(255, 202, 0);
+    font-weight: 100;
+    font-style: italic;
+    margin: 10px 0px 0px 0px;
+
+}
+
+.co {
+
+    margin: 10px 0px 0px 0px;
+    color: rgb(255, 202, 0);
+}
+
+
+header {
+    flex-direction: column;
+    width: 1224px;
+    background-color: #ae9de6;
+    padding: 32px;
+    display: flex;
+    margin: 0px auto;
+
+}
+
+
+footer {
+    text-align: center;
+    width: 1224px;
+    padding: 32px;
+    background-color: #ae9de6aa;
+    margin: 0px auto;
+
+
+
+
+}
+
+.text {
+    font-size: 15px;
+    color: #00000083;
+}
+
+.c {
+    margin: 60px 0px 0px 0px;
+    font-size: 15px;
+    color: #00000083;
+
+}
+
+.exp {
+    display: block;
+    background-color: #ae9de6;
+    padding: 32px;
+    height: 400px;
+}
+.exp1 {
+    display: block;
+    background-color: #ae9de6;
+    padding: 32px;
+    height: 600px;
+    margin: 200px 0px 100px 0px ;
+}
+
+.edu {
+    display: flex;
+    background-color:  #9481d1;
+    padding: 32px;
+    align-items: center;
+    border-radius:  10px;
+    height: 200px;
+    margin: 20px;
+}
+
+.edxp {
+    color:rgb(255, 202, 0) ;
+    display: block;
+    width: 125px;
+    height: 100px;
+    padding: 32px;
+    background-color:  #a18de4;
+    border-radius:  10px;
+
+}
+.edxpp {
+    color:rgb(255, 202, 0) ;
+    display: block;
+    width: auto;
+    height: auto;
+    padding: 32px;
+    margin:50px;
+}
+.h{
+    padding:0px 0px 0px 32px;
+}
+.h1{
+    text-align: center;
+}
+.prof {
+    display: flex;
+    color:rgb(255, 202, 0)  ;
+
+}
+.pro{flex-direction: column;
+}
+.pr{
+    text-align: center;
+    background-color:#a18de4 ;
+    border-radius:30px ;
+    padding: 10px;
+    margin:8px 8px 8px 8px ;
+    height:70.13px ;
+    width:152.38px ;
+}
+.prr{
+    background-color: #9481d1;
+    display: flex;
+    padding: 32px;
+    border-radius:  10px;
+    height: 600px;
+    margin: 50px;
+    flex-direction: column;
+}
+.number2{
+    margin: 20px 0px 0px 0px  ;
+    border-radius:  10px;
+    display: flex;
+    padding: 32px;
+    width: 550px ;
+    background-color: #9481d1;
+    color: rgb(255, 202, 0);
+}
+.numbe2{
+    flex-direction: column;
+    padding: 32px;
+    display: flex;
+}
+.numb2{
+    border-radius:15px ;
+    text-align: center;
+    height: 50px;
+    width: 90px ;
+    background-color: #a18de4;
+}
+.h2{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+.num{
+    margin:2020px 0px 0px 0px  ;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    background-color: #9481d1;
+    text-align: center;
+    width: 1224px;
+
+}
+.nu{
+    border-radius:15px ;
+    text-align: center;
+    border: 2px solid #000000;
+    padding:10px ;
+
+}

@@ -1,0 +1,292 @@
+body {
+    background-image: url('space.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Marck Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+@media(min-width: 768px) {}
+
+@media(min-width: 960px) {}
+
+
+@media(min-width: 1024px) {}
+
+@media(min-width: 1200px) {}
+
+h1 {
+    text-shadow: -3px -5px 4px #a4a4a4;
+    text-align: center;
+    position: relative;
+    inset: 0px 0px 100px 0px;
+    color: aliceblue;
+}
+.h11{
+    text-shadow: -3px -5px 4px #a4a4a4;
+    text-align: center;
+    position: relative;
+    inset: 0px 0px 100px 0px;
+    color: aliceblue;
+}
+
+.c {
+    margin: 60px 0px 0px 0px;
+    font-size: 15px;
+    color: #ffffff;
+
+}
+
+.exp {
+    display: block;
+
+    padding: 32px;
+    height: 400px;
+}
+
+
+.edu {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: baseline;
+    padding: 32px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.edxp {
+    color: rgb(255, 202, 0);
+    display: block;
+    padding: 32px;
+    background-color: rgb(0 0 0 / 23%);
+    border-radius: 30px;
+    width: 92px;
+
+}
+
+.edxpp2 {
+    color: rgb(255 202 0 / 80%);
+    display: block;
+    width: auto;
+    height: auto;
+    padding: 32px;
+    margin: 50px;
+    background-color: rgb(0 0 0 / 31%);
+}
+
+.h {
+    padding: 170px 0px 0px 0px;
+}
+
+.h1 {
+    text-align: center;
+}
+
+.prof {
+    display: flex;
+    color: rgb(255, 202, 0);
+    margin-left: auto;
+    margin-right: auto
+}
+
+.pro {
+    flex-direction: column;
+}
+
+.pr {
+    text-align: center;
+    background-color: rgb(0 0 0 / 23%);
+    border-radius: 30px;
+    padding: 10px;
+    margin: 8px 8px 8px 8px;
+    height: 25px;
+    width: 152.38px;
+}
+
+.prr {
+
+    display: flex;
+    padding: 32px;
+    border-radius: 10px;
+    height: 600px;
+    margin: 50px;
+    flex-direction: column;
+}
+
+.container {
+    align-items: center;
+    display: flex;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 0px auto;
+    background-color: rgba(91, 90, 90, 0.334);
+}
+
+main {
+    width: 1224px;
+    height: 4000px;
+    background-color: rgba(91, 90, 90, 0.334);
+    display: flex;
+    margin: 0px auto;
+    padding: 32px;
+    flex-direction: column;
+
+
+}
+a{
+    color: aqua;
+    
+}
+.a1 {
+    text-decoration: none;
+}
+
+.h12 {
+    text-shadow: -3px -5px 4px #a4a4a4;
+    position: relative;
+    inset: 0px 0px 100px 0px;
+    color: aliceblue;
+}
+
+.h13 {
+    text-shadow: -3px -5px 4px #a4a4a4;
+    position: relative;
+    inset: 0px 0px 100px 0px;
+    color: aliceblue;
+}
+
+.h14 {
+    text-align: center;
+
+}
+
+footer {
+    text-align: center;
+    width: 1224px;
+    padding: 32px;
+    background-color: rgb(56 55 55 / 52%);
+    margin: 0px auto;
+
+
+
+
+}
+
+
+.text {
+    font-size: 15px;
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+.card {
+    transform: (0deg);
+    transition: transform 1s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(0.5);
+}
+
+.card0 {
+    transform: (0deg);
+    transition: transform 1s ease-in-out;
+}
+
+.card0:hover {
+    transform: scale(1.5);
+}
+
+.card1 {
+    transform: (0deg);
+    transition: transform 1s ease-in-out;
+}
+
+.card1:hover {
+    transform: rotate(180deg);
+}
+
+.card2 {
+    transform: (0deg);
+    transition: transform 1s ease-in-out;
+}
+
+.card2:hover {
+    transform: rotate(270deg);
+}
+
+.card3 {
+    transform: (0deg);
+    transition: transform 1s ease-in-out;
+}
+
+.card3:hover {
+    transform: scale(1, -1);
+}
+
+.card4 {
+    background-color: rgb(0 0 0 / 23%);
+}
+
+.card4:hover {
+    background-color: rgba(255, 123, 0, 0.348);
+}
+
+.card5 {
+    background-color: rgb(0 0 0 / 23%);
+}
+
+.card5:hover {
+    background-color: rgba(202, 241, 6, 0.273);
+}
+
+.card6 {
+    background-color: rgb(0 0 0 / 23%);
+
+}
+
+.card6:hover {
+    background-color: rgba(31, 223, 21, 0.285);
+}
+
+.card7 {
+
+    background-color: rgb(0 0 0 / 23%);
+}
+
+.card7:hover {
+    background-color: rgba(127, 66, 184, 0.23);
+}
+
+.card8 {
+    background-color: rgb(0 0 0 / 23%);
+}
+
+.card8:hover {
+    background-color: rgba(0, 255, 213, 0.307);
+}
+
+.card9 {
+    background-color: rgb(0 0 0 / 23%);
+}
+
+.card9:hover {
+    background-color: rgba(172, 24, 71, 0.268);
+}
+
+.card10 {
+    background-color: rgb(0 0 0 / 23%);
+}
+
+.card10:hover {
+    background-color: rgba(0, 183, 255, 0.279)
+}
